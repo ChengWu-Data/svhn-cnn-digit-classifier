@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Local data files
+data/
+*.mat
+
+# Model outputs
+models/
+*.keras
+*.h5
+
+# Generated project outputs
+figures/
+results/
+
+# System files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
